@@ -1,4 +1,4 @@
-# 중급편 열혈 파이썬 (윤성우님) 학습  
+# 중급편 열혈 파이썬(저자 윤성우님) 학습내용 기록 
 # Intermediate Python Study
 
 ## 1. 강의와 교재를 통해 학습하며 직접 작성한 코드를 기록하였습니다.
@@ -26,6 +26,6 @@
 ## 3. 자료
 
 - [열혈 파이썬 중급, 2019, 윤성우, 오렌지미디어(http://www.yes24.com/Product/Goods/81519650)
-- [윤성우님 네이버 까페](https://cafe.naver.com/cstudyjava)
+- [윤성우님 네이버 까페] (https://cafe.naver.com/cstudyjava)
 
 
