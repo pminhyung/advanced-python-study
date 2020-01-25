@@ -26,6 +26,6 @@
 ## 3. 자료
 
 - [열혈 파이썬 중급, 2019, 윤성우, 오렌지미디어](http://www.yes24.com/Product/Goods/81519650)
-- [윤성우님 네이버 까페] (https://cafe.naver.com/cstudyjava)
+- [윤성우님 네이버 까페](https://cafe.naver.com/cstudyjava)
 
 
