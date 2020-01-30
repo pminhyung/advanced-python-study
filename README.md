@@ -19,8 +19,23 @@
 - Story 12 Named Tuple
 - Story 13 Dict의 생성과 Zip
 - Story 14 dict의 looping technique과 comprehension
-- Story 15 Asterisk_함수 호출과 매개변수 선언에 있어서의 사용 규칙
-
+- Story 16 dict & defaultdict
+- Story 17 dict & ordereddict
+- Story 18 자료형 분류와 set & frozenset
+- Story 19 정렬 기술
+- Story 20 enumerate와 문자열 비교
+- Story 21 표현식 기반 문자열 조합
+- Story 22 메소드 기반 문자열 조합
+- Story 23 클래스와 객체의 본질
+- Story 24 상속
+- Story 25 isinstance 함수와 object 클래스
+- Story 26 special method (magic method)
+- Story 27 연산자 오버로딩
+- Story 28 정보은닉과 _ _ dict _ _
+- Story 29 _ _ slots _ _의 효과
+- Story 30 property
+- Story 31 nested, closure
+- Story 32 Decorator
 ...
 
 ## 3. 자료
