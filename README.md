@@ -3,7 +3,7 @@
 
 ## 1. 강의와 교재를 통해 학습하며 직접 작성한 코드를 기록하였습니다.
 
-## 2. 순서
+## 2. 순서 (34강)
 
 - Story 01 레퍼런스 카운트(Reference Count, rc)와 가비지 컬렉션(Garbage Collection)
 - Story 02 수정 가능한 객체(mutable)와 수정 불가능한 객체(immutable)
@@ -37,7 +37,7 @@
 - Story 31 nested, closure
 - Story 32 Decorator
 - Story 33 클래스 메소드와 static 메소드
-- Story 34 _ _ name _ _ & _ _ main _ _
+- Story 34 _ _ name _ _ & _ _ main _ _ (완)
 
 ## 3. 자료
 
