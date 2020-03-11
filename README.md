@@ -36,7 +36,8 @@
 - Story 30 property
 - Story 31 nested, closure
 - Story 32 Decorator
-...
+- Story 33 클래스 메소드와 static 메소드
+- Story 34 _ _ name _ _ & _ _ main _ _
 
 ## 3. 자료
 
